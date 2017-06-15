@@ -1,0 +1,18 @@
+<resources>
+    <string name="app_name">Mouse Belly Delivery</string>
+    <string name="title_activity_maps">Map</string>
+
+    <string name="font_face">fonts/Satisfy-Regular.ttf</string>
+
+
+    <string name="Rs">\u20B9</string>
+    <string name="prompt_email">Email</string>
+    <string name="prompt_password">Password</string>
+    <string name="action_sign_in">Login</string>
+    <string name="action_sign_in_short">Sign in</string>
+    <string name="error_invalid_email">Phone No is incorrect</string>
+    <string name="error_invalid_password">This password is too short</string>
+    <string name="error_incorrect_password">UserName OR Password is incorrect</string>
+    <string name="error_field_required">This field is required</string>
+
+</resources>

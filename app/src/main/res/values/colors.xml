@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorPrimary">#7c5a7e</color>
+    <color name="colorPrimaryDark">#7c5a7e</color>
+    <color name="colorAccent">#769e70</color>
+
+    <color name="Amulet">#769e70</color>
+    <color name="Affair">#6c448d</color>
+    <color name="Bossanova">#3f2353</color>
+    <color name="Rose_White">#fffafa</color>
+    <color name="Cannon_Pink">#8d4457</color>
+    <color name="Roman">#D9534F</color>
+
+
+    <color name="Citrus" type="color">#AAC706</color>
+
+    <!--logo colors-->
+    <color name="Tamarillo" type="color">#9E0E0E</color>
+    <color name="Yellow_Orange" type="color">#FFB03B</color>
+
+    <color name="Maroon" type="color">#800000</color>
+    <color name="Black" type="color">#000000</color>
+
+
+    <color name="colorPrimaryLight">#C8E6C9</color>
+    <color name="colorPrimaryText">#212121</color>
+    <color name="colorSecondaryText">#757575</color>
+    <color name="colorIcons">#FFFFFF</color>
+    <color name="colorDivider">#BDBDBD</color>
+
+</resources>
